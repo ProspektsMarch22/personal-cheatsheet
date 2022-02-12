@@ -1,6 +1,6 @@
-#Personal Cheatsheet
+# Personal Cheatsheet
 
-##A HTML and CSS Codecademy Project
+## A HTML and CSS Codecademy Project
 
 The aim of this project was to create a HTML cheatsheet, and i choose the theme 'Html Tables', since it was already suggested as the solution example for this challenge.
 
